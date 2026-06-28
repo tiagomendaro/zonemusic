@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "name": "pueblo",
+      "file": "Stardew Valley OST - Dance Of The Moonlight Jellies.ogg",
+      "polygon": [
+        [-151.589, 190.438],
+        [-156.291, 253.546],
+        [-219.449, 258.925],
+        [-221.495, 188.528]
+      ],
+      "time": "always",
+      "volume": 1.0
+    }
+  ]
+}
