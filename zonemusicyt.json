@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "name": "zona tiago",
+      "youtube": "https://www.youtube.com/watch?v=1cVWwtJQHZE",
+      "polygon": [
+        [-151.589, 190.438],
+        [-156.291, 253.546],
+        [-219.449, 258.925],
+        [-221.495, 188.528]
+      ],
+      "time": "always",
+      "volume": 1.0
+    }
+  ]
+}
